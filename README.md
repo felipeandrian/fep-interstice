@@ -132,9 +132,6 @@ Isso encapsula o tráfego de *Port Hopping* dentro de um único fluxo UDP (Porta
 
 ```mermaid
 sequenceDiagram
-    participant Alice (10.0.0.2)
-    participant Tunnel (WireGuard)
-    participant Bob (10.0.0.1)
 
     Note over Alice: Envia para 10.0.0.1:9002
     Alice->>Tunnel: Encapsula pacote UDP (Hopping)
