@@ -27,7 +27,7 @@ O **FEP INTERSTICE** é uma ferramenta de comunicação encoberta (C2/Chat) que 
   <img src="assets/spectre.png" width="45%" alt="Interface do Alvo">
 </p>
 
-*À esquerda: O Operador inicia a conexão segura. À direita: O Alvo executa o comando `/wipe` para apagar rastros forenses.*
+*À esquerda: O Operador inicia a conexão segura. À direita: O Alvo executa o comando `/quit` para terminar a comunicação segura.*
 
 ##  Objetivo e Capacidades
 
