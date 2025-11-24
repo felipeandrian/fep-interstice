@@ -182,7 +182,7 @@ Uma vez conectado o WireGuard, execute o script usando os **IPs Internos**:
 
 -----
 
-## ⌨ Comandos Internos (Slash Commands)
+##  Comandos Internos (Slash Commands)
 
 | Comando | Descrição |
 | :--- | :--- |
