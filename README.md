@@ -20,7 +20,7 @@ O **FEP INTERSTICE** é uma ferramenta de comunicação encoberta (C2/Chat) que 
 > **"A invisibilidade é a melhor defesa."**
 > O FEP INTERSTICE cria um túnel de comunicação criptografado que se esconde no ruído de fundo da rede, permitindo trocas de mensagens indetetáveis por DPI (Deep Packet Inspection).
 
-## 🛡 Objetivo e Capacidades
+##  Objetivo e Capacidades
 
 O projeto foi desenhado para garantir **Confidencialidade** e **Negabilidade** em ambientes monitorizados. Ele resolve dois problemas críticos de chats convencionais:
 
@@ -54,8 +54,7 @@ sequenceDiagram
     Alice->>Bob: UDP Porta 9000 [Payload: Lixo Aleatório]
     
     Note over Bob: Reconstrói: 01 + 10 + 00... -> "Oi"
-
----
+```
 
 ##  Engenharia e Furtividade (OpSec)
 
