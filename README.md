@@ -39,9 +39,6 @@ Isso torna o tráfego indistinguível de ruído de rede ou falhas de conexão UD
 
 ```mermaid
 sequenceDiagram
-    participant Alice (Sender)
-    participant Network (Firewall)
-    participant Bob (Receiver)
 
     Note over Alice: Mensagem: "Oi" -> Bits: 01 10 ...
     
